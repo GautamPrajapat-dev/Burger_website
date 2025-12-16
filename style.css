@@ -71,7 +71,7 @@ html {
 }
 
 html::-webkit-scrollbar {
-  width: 8rem;
+  width: 4px;
 }
 html::-webkit-scrollbar-track {
   background: transparent;
